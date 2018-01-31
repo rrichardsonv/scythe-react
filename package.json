@@ -6,6 +6,7 @@
     "boardgame.io": "^0.16.8",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-hexgrid": "^1.0.2",
     "react-scripts": "1.1.0"
   },
   "scripts": {
